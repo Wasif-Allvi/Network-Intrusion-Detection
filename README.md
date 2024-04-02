@@ -20,7 +20,7 @@ Welcome to the Intrusion Detection System (IDS) repository! This project impleme
 
 ## Dependencies
 
-- Python 3.x
+- Python 3.12.1
 - The project relies on the following libraries: numpy, pandas, scikit-learn, tensorflow, keras
 ## Data Splitting Techniques
 
