@@ -1,0 +1,21 @@
+# Python virtual environments
+venv/
+ENV/
+env/
+*.pyc
+__pycache__/
+
+# GitKeep
+.gitkeep
+
+# IDE and editor configuration files
+.vscode/
+
+
+#MacOS specific metafiles
+.idea/
+.DS_Store
+
+# Snakemake
+.snakemake
+
