@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the following metadata."
+title: "Network-Intrusion-Detection"
+version: "1.0.0"
+date-released: "2024-08-31"
+authors:
+  - family-names: "Allvi"
+    given-names: "Mustafa"
+    orcid: "https://orcid.org/0009-0002-4941-4645"
+keywords:
+  - software
+  - detection
+  - network
+repository-code: "https://github.com/Wasif-Allvi/Network-Intrusion-Detection" 
+license: "MIT" 
